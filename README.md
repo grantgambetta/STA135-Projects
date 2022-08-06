@@ -1,2 +1,1 @@
-# STA135_Projects
-Projects for STA 135 at UC Davis.
+# UC Davis STA 135 Course Projects
